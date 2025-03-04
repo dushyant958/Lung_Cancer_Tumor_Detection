@@ -123,7 +123,7 @@ We welcome contributions! To contribute:
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## Contact
-**Your Name** - dushyantatalkar415@gmail.com
+**My Gmail** - dushyantatalkar415@gmail.com
 
 **Project Link:** [GitHub Repository](https://github.com/dushyant958/Lung_Colon_Detection)
 
