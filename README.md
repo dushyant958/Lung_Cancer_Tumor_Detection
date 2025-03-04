@@ -1,7 +1,7 @@
-# Medical Image Classification: Lung and Colon Tumor Detection
+# Medical Image Classification: Lung Cancer Tumor Detection
 
 ## Project Overview
-This project implements a deep learning solution for medical image classification, specifically designed to distinguish between different types of lung and colon medical images. Utilizing Convolutional Neural Networks (CNN), the model aims to provide an automated approach to medical image analysis.
+This project implements a deep learning solution for medical image classification, specifically designed to distinguish between different types of lung medical images. Utilizing Convolutional Neural Networks (CNN), the model aims to provide an automated approach to medical image analysis.
 
 ## Features
 - **Advanced CNN architecture** for medical image classification
@@ -58,12 +58,7 @@ lung_colon_image_set/
 ├── lung/
 │   ├── image1.jpeg
 │   ├── image2.jpeg
-│   └── ...
-│
-└── colon/
-    ├── image1.jpeg
-    ├── image2.jpeg
-    └── ...
+│   └── ...  
 ```
 
 ### Key Configuration
